@@ -1,0 +1,59 @@
+* {
+              margin: 0;
+              box-sizing: border-box;
+              -webkit-font-smoothing: antialiased;
+              -moz-osx-font-smoothing: grayscale;
+            }
+            
+            body {
+              text-align: center;
+              background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(112, 112, 112, 0.5)), url(https://i.ibb.co/87NK9J5/Engage1.jpg);
+              background-repeat: no-repeat;
+              background-size: cover;
+              background-position: center;
+              height: 100vh;
+              font-family: "Inter", sans-serif;
+            }
+            
+            h1 {
+              padding-top: 75px;
+              font-size: 100px;
+              font-weight: 1000;
+              color: #073350;
+              line-height: 140px;
+              font-family: "Cinzel", sans-serif;
+            }
+            
+            h3 {
+              font-family: "Lato", sans-serif;
+              font-weight: 600;
+              font-size: 30px;
+              color: #141414;
+            }
+            
+            p {
+              color: #000000;
+              font-size: 20px;
+              font-weight: 500;
+              margin-bottom: 70px;
+              font-family: "Lato", sans-serif;
+            }
+            
+            a {
+              display: inline-block; /* Certifica que o link será exibido como um bloco */
+              color: #ffffff;
+              font-size: 24px;
+              font-weight: 600;
+              line-height: 24px;
+              padding: 16px 32px;
+              margin-right: 12px;
+              margin-bottom: 10px;
+              border-radius: 50px;
+              background: #073350;
+              text-decoration: none;
+            }
+            
+            a:hover {
+              background-color: #055a6e;
+            }
+            
