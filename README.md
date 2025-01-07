@@ -1,22 +1,28 @@
-<h1 align="center"> ENGAGE Consultoria & Engenharia </h1>
+# Cyber Warrior
 
-<p align="center"> As melhores soluções para seu empreendimento. </p>
+**O futuro está em suas mãos!** 
 
-<br>
+Bem-vindo ao **Cyber Warrior**, uma aventura cibernética onde você explora um mundo cheio de desafios, luta contra uma IA rebelde e salva a humanidade. Este projeto traz uma interface moderna, envolvente e totalmente responsiva.
 
-<p align="center"> <img alt="ENGAGE Consultoria & Engenharia Landing Page" src="Engage.png" width="100%"> </p>
+<p align="center"> <img alt="Cyber Warrior Landing Page" src="./img/Amostra.png" width="100%"> </p>
 
-🚀 Tecnologias
+## ✨ Características
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+- **Responsividade**: Projetado para oferecer uma experiência incrível em qualquer dispositivo, seja desktop, tablet ou smartphone.
+- **Design Cibernético**: Visual futurista com uma estética que captura o espírito de um mundo dominado pela tecnologia.
+- **Imagens Criadas por IA**: As imagens foram geradas usando inteligência artificial, garantindo uma experiência visual única e inovadora.
 
-- HTML e CSS
-- Git e Github
+## 🛠 Tecnologias Utilizadas
 
-💻 Projeto
+- **HTML5**: Estrutura semântica e otimizada.
+- **CSS3**: Estilização sofisticada, incluindo efeitos de transição e design responsivo.
 
-ENGAGE Consultoria & Engenharia é uma aplicação web que oferece soluções de engenharia e consultoria, com uma interface limpa e moderna para apresentar os serviços da empresa.
+## 📱 Responsividade
 
-Acesse o projeto finalizado, online 
+O projeto foi desenvolvido com foco na responsividade, proporcionando uma experiência de usuário fluida e agradável em qualquer dispositivo.
+
+## 🎨 Imagens por IA
+
+As imagens foram criadas utilizando IA, resultando em elementos visuais que enriquecem a imersão no mundo de **Cyber Warrior**.
 
 Feito com ♥ by Camila.
